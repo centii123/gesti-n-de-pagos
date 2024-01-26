@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'gestion-pagos';
+  products=[{
+    code:"ggg",
+    name:"name",
+    category:"ggg",
+    quantity:"quantity"
+  }]
 }
